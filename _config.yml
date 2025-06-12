@@ -10,12 +10,6 @@ minimal_mistakes_skin: "default"
 plugins:
   - jekyll-include-cache
 
-# Use _pages as a custom collection
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
